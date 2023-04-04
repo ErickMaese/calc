@@ -1,13 +1,11 @@
-# calc
 # Calculator App
 This is a simple calculator application created using HTML, CSS, and JavaScript. The app allows users to perform basic arithmetic operations, such as addition, subtraction, multiplication, and division, on two numbers.
 
 ## Installation
 To use this application, simply clone the repository to your local machine and open the index.html file in your web browser.
 
-shell
-Copy code
-$ git clone https://github.com/ErickMaese/calc.git
+
+```$ git clone https://github.com/ErickMaese/calc.git```
 
 ## Usage
 To use the calculator, simply enter two numbers in the input fields and select the desired arithmetic operation from the dropdown menu. The result of the calculation will be displayed below the input fields.
