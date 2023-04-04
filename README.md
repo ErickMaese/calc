@@ -5,7 +5,10 @@ This is a simple calculator application created using HTML, CSS, and JavaScript.
 To use this application, simply clone the repository to your local machine and open the index.html file in your web browser.
 
 
-```$ git clone https://github.com/ErickMaese/calc.git```
+```shell
+
+$ git clone https://github.com/ErickMaese/calc.git
+```
 
 ## Usage
 To use the calculator, simply enter two numbers in the input fields and select the desired arithmetic operation from the dropdown menu. The result of the calculation will be displayed below the input fields.
